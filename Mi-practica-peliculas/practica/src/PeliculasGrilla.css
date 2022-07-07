@@ -1,0 +1,13 @@
+.GrillaPeliculas{
+display: flex;
+flex-wrap: wrap;
+gap: 55px; /*para separar los elementos*/
+padding: 40px;
+justify-content: center;
+}
+
+@media (max-width: 560px){
+    .movieGrid{
+       flex-wrap:100%;
+    }  
+}

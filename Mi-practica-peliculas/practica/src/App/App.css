@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+
+body{
+  background-color:#800000e4;
+}
+.titulo{
+  text-align: center;
+  font-size: 5em;
+  font-weight: 400;
+  font-family: 'Raleway Dots', cursive;
+  margin: 20px;
+  color: rgb(217, 217, 86);
+}
+
