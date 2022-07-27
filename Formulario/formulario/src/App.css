@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&family=Work+Sans:ital@1&display=swap');
+
+body {
+  text-align: center;
+  font-family: 'Raleway Dots', cursive;
+  font-family: 'Raleway Dots', cursive;
+  font-family: 'Work Sans', sans-serif;
+  background-color: rgb(254, 173, 252);
+ 
+}
+.conteiner-form{
+  border: 5px solid rgb(251, 163, 226);
+  display: flex;
+  flex-direction: column;
+  font-size: 10px;
+  margin:25px;
+  color: rgb(87, 87, 87);
+
+}
+.nombre{
+ 
+  
+}
+.enviar{
+  position: relative;
+  width: 100px;
+  height: 20px;
+  left: 300px;
+  font-size: 10px;
+}
+.restablecer{
+  position: relative;
+  width: 100px;
+  height: 20px;
+  left: 300px;
+  font-size: 10px;
+}
+
+
+
