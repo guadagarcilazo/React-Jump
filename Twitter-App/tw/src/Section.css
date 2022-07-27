@@ -1,0 +1,70 @@
+.contenedor-iconos{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: -290px;
+    text-decoration: none;
+	
+}
+
+.point-circle{
+	position: relative;
+	bottom: 62px;
+	right: 60px;
+    color: #ffffff;
+}
+
+.myButton {
+	background-color:#4094de;
+	border-radius:30px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-weight: 600;
+	font-size:10px;
+	padding:10px 14px;
+	text-decoration:none;
+	text-shadow:0px 0px 15px #000000;
+	position: relative;
+	bottom: 45px;
+	right: 60px;
+}
+.myButton:hover {
+	background-color:#327fc2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.fa-regular{
+	border-radius:100px;
+	line-height: 30px;
+}
+.fa-regular:hover{
+	background-color:#7d7b7b;
+	display: inline-block;
+	padding:1px ;
+	
+		
+}
+.fa-regular:active {
+	position:relative;
+}
+.line{
+	border-top: 1px solid rgb(128, 127, 127);
+  	max-width: 805px;
+  	margin: 0px auto 0 auto;
+	position: relative;
+	left: 290px;
+	bottom: 204px;
+}
+.lini{
+	border-top: 1px solid rgb(0, 0, 0);
+  	max-width: 805px;
+  	margin: 0px auto 0 auto;
+	position: relative;
+	left: 290px;
+	rotate: 180g;
+}
